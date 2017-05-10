@@ -1,1 +1,1 @@
-# Thesis-Analysis-of-Fungal-Variations-among-Communities-Using-ITS-Primers-
+# Thesis: Analysis-Of-Fungal-Variations-Among-Communities-Using-ITS-Primers
